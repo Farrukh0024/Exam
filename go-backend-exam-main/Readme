@@ -1,0 +1,11 @@
+Update car route (from city, to city) #patch
+Update car status (online/offline) #patch
+Get car full data (driverData) # getList
+Carlar get qilinganda (driverData) #getAll
+Get driver full data (from, to, driver, customers, date) #getList
+Driverlar get qilinganda (fromCityData, toCityData) #getAll
+Get tripCustomer full data (customerData) #getList
+TripCustomerlar get qilinganda (customerData) #getAll
+Get trip full data (fromCityData, toCityData, driverData) #get
+Triplar get qilinganda (fromCityData, toCityData, driverData) #getAll
+Trip external id(T-increasingId) #T-1,T-2 
